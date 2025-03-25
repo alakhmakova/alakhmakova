@@ -13,7 +13,7 @@
 
 - 📝 I regularly learn something on LinkedIn Learning [https://www.linkedin.com/in/anastasiya-lakhmakova-670a79228/details/certifications/](https://www.linkedin.com/in/anastasiya-lakhmakova-670a79228/details/certifications/)
 
-- 🙏🏻 I need help with **LIA internship in Sweden**
+- 🙏🏻 I am looking for help with **LIA internship in Sweden**
 
 - 📫 How to reach me **anastasiya.lakhmakova@gmail.com**
 
