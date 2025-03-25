@@ -7,7 +7,7 @@
 
 - 🎨 I’m currently working on [webshop](https://github.com/alakhmakova/webshop)
 
-- 🧑‍🎓 I’m currently learning **Java, SQL, JDBC, Git, HTML, CSS, JavaScript, Spring Boot**
+- 🧠 I’m currently learning **Java, SQL, JDBC, Git, HTML, CSS, JavaScript, Spring Boot**
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/alakhmakova](https://github.com/alakhmakova)
 
