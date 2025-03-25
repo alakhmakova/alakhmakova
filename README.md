@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/anastasiya-lakhmakova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anastasiya lakhmakova" height="30" width="40" /></a>
-<a href="discordapp.com/users/1273551494024659015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anastasiya058032" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anastasiya-lakhmakova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anastasiya lakhmakova" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1273551494024659015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anastasiya058032" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
