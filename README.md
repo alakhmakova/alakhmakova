@@ -15,6 +15,8 @@
 
 - 🙏🏻 I am looking for help with **LIA internship in Sweden**
 
+- 💼My CV [https://alakhmakova.github.io/](https://alakhmakova.github.io/)
+
 - 📫 How to reach me **anastasiya.lakhmakova@gmail.com**
 
 - 🤸🏻‍♀️ Fun fact **I like handstands**
