@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alakhmakova" alt="alakhmakova" /></a> </p>
 
-- 🎨 I’m currently working on [webshop](https://github.com/alakhmakova/webshop)
+- 🎨 I’m currently working on [goals.web.projekt](https://github.com/alakhmakova/goals.web.projekt)
 
 - 🧠 I’m currently learning **Java, SQL, JDBC, Git, HTML, CSS, JavaScript, Spring Boot**
 
